@@ -16,15 +16,5 @@
 	-Retrieving/Inserting data from database using MVC
 	-Materializing the student update form
 	-The supervisor helped me the most in retrieving/inserting data from database in MVC
-	
-	
-git init
-git clone <repository link>
-git add.
-git status
-git commit m "somethin something"
-git remote add origin
-git remote -v
-git push origin master
 
 
